@@ -57,6 +57,6 @@ Small, nice, and easy ...
 
 See also:
 
-[jin-plugin](http://code.google.com/p/jin-plugin/) - simple plugin framework for Java and PHP
+[jin-plugin](https://github.com/TheBojda/jin-plugin/) - simple plugin framework for Java and PHP
 
-[jin-webcore](http://code.google.com/p/jin-webcore/) - minimalistic web framework for Java and PHP
+[jin-webcore](https://github.com/TheBojda/jin-webcore/) - minimalistic web framework for Java and PHP
